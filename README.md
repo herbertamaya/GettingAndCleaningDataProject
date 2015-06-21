@@ -4,7 +4,8 @@ The purpose of this project is to create a tidy data set from the Human Activity
 The files provided are:
 ========================
 -'run_analysys.R': This script contains a function call createTidyDataSet(). Once called, the output of this function wil be a file call 'tidy_data_set.txt' which contains the tidy data set. This function will work properly as long as the package 'dplyr' is already installed, and the Samsung Data is in the working directory.
--'code_book.pdf': Describes the variables in the tidy data set.
+
+-'Tidy Data Set Code Book.pdf': Describes the variables in the tidy data set.
 
 
 References:
