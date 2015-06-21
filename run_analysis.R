@@ -1,3 +1,5 @@
+#This function creates a tidy data set from the Human Activity Recognition Using Smartphones Dataset Version 1.0.
+#The output is tidy_data_set.txt
 createTidyDataSet <- function(){
         library(dplyr)
         #Defining directories and files
